@@ -1,0 +1,16 @@
+h2 {
+    color: darkblue;
+}
+
+.title {
+    background: blue;
+    color: red;
+}
+
+.heading {
+    color: green;
+    text-transform: capitalize;    
+}
+.heading-about {
+    color: darkgoldenrod;
+}
